@@ -9,9 +9,6 @@ authors = [
 requires-python = ">=3.13"
 dependencies = []
 
-[project.scripts]
-blind75 = "blind75:main"
-
 [build-system]
 requires = ["uv_build>=0.12.22,<0.13.0"]
 build-backend = "uv_build"
